@@ -51,6 +51,12 @@ We want to empower the experts to grow their business and teach others how to na
 | PUT | `/courses/:id` | UPDATE | update a course in the database and send back as json (status 200) |
 | DELETE | `/courses/:id` | DESTROY | delete a course from the database (status 204) |
 
+## Contributors
+- Prija Cash    | [github](https://github.com/prijacash)
+- Jason Chen    | [github](https://github.com/jasonxchen)
+- Zion Agrate   | [github](https://github.com/Agrate0718)
+- Ian Dabinett  | [github](https://github.com/IanDab47)
+
 ## Tech Stack Used
 - HTML / CSS / JavaScript
 - React.js
@@ -123,7 +129,3 @@ We want to empower the experts to grow their business and teach others how to na
 * [ ] Let users follow other users
 * [ ] Add video content
 * [ ] Add real users and their curated courses
-
-
-
-
