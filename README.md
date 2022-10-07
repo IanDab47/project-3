@@ -1,6 +1,6 @@
 # SEIR-808 - Bloom
 
-Everyone is an expert in their own field.  We would like to expand on the gig economy to empower users to teach others the secrets of their trade.  We love how social media has showcased, that there are many different ways to earn a living.  There are experts in: AirBNB hosting, Cooking, Traveling, and even Coding. These experts can create a workshop for those who are curious in the field.
+Everyone is an expert in their own field. We would like to expand on the gig economy to empower users to teach others the secrets of their trade. We love how social media has showcased, that there are many different ways to earn a living. There are experts in: AirBNB hosting, Cooking, Traveling, and even Coding. These experts can create a workshop for those who are curious in the field.
 
 We want to empower the experts to grow their business and teach others how to navigate that path.  For the ones that want to learn, we want them to Bloom.
 
